@@ -1,0 +1,28 @@
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\bin\Release\tickcross.exe
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\bin\Release\tickcross.pdb
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Release\tickcross.Form1.resources
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Release\tickcross.Properties.Resources.resources
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Release\tickcross.csproj.GenerateResource.Cache
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Release\tickcross.exe
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Release\tickcross.pdb
+F:\tickcross\tickcross\obj\x86\Release\tickcross.exe
+F:\tickcross\tickcross\obj\x86\Release\tickcross.pdb
+G:\tickcross\tickcross\obj\x86\Release\tickcross.exe
+G:\tickcross\tickcross\obj\x86\Release\tickcross.pdb
+G:\tickcross\tickcross\bin\Release\tickcross.exe
+G:\tickcross\tickcross\bin\Release\tickcross.pdb
+G:\tickcross\tickcross\obj\x86\Release\tickcross.Form1.resources
+G:\tickcross\tickcross\obj\x86\Release\tickcross.Properties.Resources.resources
+G:\tickcross\tickcross\obj\x86\Release\tickcross.csproj.GenerateResource.Cache
+C:\Users\Farrukh Malik\Desktop\is ko bi dekhna h pehle\tickcross\tickcross\obj\x86\Release\tickcross.exe
+C:\Users\Farrukh Malik\Desktop\is ko bi dekhna h pehle\tickcross\tickcross\obj\x86\Release\tickcross.pdb
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\obj\x86\Release\tickcross.exe
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\obj\x86\Release\tickcross.pdb
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\bin\Release\tickcross.exe
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\bin\Release\tickcross.pdb
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\obj\x86\Release\tickcross.csprojResolveAssemblyReference.cache
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\obj\x86\Release\tickcross.Form1.resources
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\obj\x86\Release\tickcross.Properties.Resources.resources
+D:\c sharp\C SHARP ZULQARNAIN\tickcross\tickcross\obj\x86\Release\tickcross.csproj.GenerateResource.Cache
+C:\Users\Farrukh Malik\Desktop\tickcross\tickcross\obj\x86\Release\tickcross.exe
+C:\Users\Farrukh Malik\Desktop\tickcross\tickcross\obj\x86\Release\tickcross.pdb

@@ -1,0 +1,8 @@
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\bin\Debug\tickcross.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\bin\Debug\tickcross.pdb
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Debug\tickcross.Form1.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Debug\tickcross.Properties.Resources.resources
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Debug\tickcross.csproj.GenerateResource.Cache
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Debug\tickcross.exe
+c:\users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Debug\tickcross.pdb
+C:\Users\bakhtiyar\documents\visual studio 2010\Projects\tickcross\tickcross\obj\x86\Debug\tickcross.csprojResolveAssemblyReference.cache
